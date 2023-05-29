@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: TuaPol-PC
+Build-Jdk: 15.0.2
+Implementation-Title: UploadGroupSerder
+Implementation-Version: 0.0.1
+Implementation-Vendor-Id: com.grokonez.excelfile
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/UploadGroupSerder
+Created-By: Maven Integration for Eclipse
+
